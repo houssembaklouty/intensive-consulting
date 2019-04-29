@@ -13,13 +13,16 @@
                 <a href="/industriel/etablissement-classe" title="Etablissement Classé">Etablissement Classé</a>
             </li>
             <li>
-                <a href="/industriel/systeme-de-managment" title="Système De Managment" class="active">Système De Managment</a>
+                <a href="/industriel/systeme-de-managment" title="Système De Managment">Système De Managment</a>
             </li>
             <li>
                 <a href="#" title="Conseil En Sûretè" >Conseil En Sûretè</a>
             </li>
             <li>
                 <a href="#" title="ATEX">ATEX</a>
+            </li>           
+            <li>
+                <a href="#" title="Évaluation Et Gestion Des Risques" class="active">Évaluation Et Gestion Des Risques</a>
             </li>
         </ul>
     </nav>
@@ -35,13 +38,16 @@
                         <a href="/industriel/etablissement-classe" title="Etablissement Classé">Etablissement Classé</a>
                     </li>
                     <li>
-                        <a href="/industriel/systeme-de-managment" title="Système De Managment" class="active">Système De Managment</a>
+                        <a href="/industriel/systeme-de-managment" title="Système De Managment">Système De Managment</a>
                     </li>
                     <li>
                         <a href="#" title="Conseil En Sûretè">Conseil En Sûretè</a>
                     </li>
                     <li>
                         <a href="#" title="ATEX">ATEX</a>
+                    </li>
+                    <li>
+                        <a href="#" title="Évaluation Et Gestion Des Risques" class="active">Évaluation Et Gestion Des Risques</a>
                     </li>
                 </ul>
             </li>
@@ -84,88 +90,49 @@
                     <h2>Principes de l’évaluation</h2><br>
                     <ul>
                         <li>La démarche d’évaluation des risques s’appuie sur des principes contribuant à sa réussite et sa pérennité:</li>
-                        <ul>
-                            <li>Afficher sa volonté de réaliser une évaluation des risques.
-                                <p>Lors de l’étape de préparation de l’évaluation, le chef d’entreprise s’engage sur les objectifs, les moyens et les modalités d’organisation et de communication.</p>
-                            </li>
-                        </ul>
+
+                        <div style="background-color: #f8f8f8; padding: 5px; margin-bottom: 15px;">
+                            <img src="http://intensive.baklouty.tn/storage/posts/April2019/fleche_png_508064.png" style="max-width: 50px; margin: 0; padding-left: 10px;">
+                            Afficher sa volonté de réaliser une évaluation des risques <br>
+
+                            <p style="padding-left: 40px;">* Lors de l’étape de préparation de l’évaluation, le chef d’entreprise s’engage sur les objectifs, les moyens et les modalités d’organisation et de communication.</p>
+                        </div>
+
+
+
+                        <div style="background-color: #f8f8f8; padding: 5px; margin-bottom: 15px;">
+                            <img src="http://intensive.baklouty.tn/storage/posts/April2019/fleche_png_508064.png" style="max-width: 50px; margin: 0; padding-left: 10px;">
+                            Choisir les outils d’évaluation qui sont adaptés à son entreprise <br>
+
+                            <p style="padding-left: 40px;">* Plusieurs techniques, outils et guides-modes d’emploi existent. Cependant, l’employeur choisira celle ou celui qui est adapté à la taille de son entreprise, sa culture, la nature de ses activités…</p>
+                        </div>
+
+
+                        <div style="background-color: #f8f8f8; padding: 5px; margin-bottom: 15px;">
+                            <img src="http://intensive.baklouty.tn/storage/posts/April2019/fleche_png_508064.png" style="max-width: 50px; margin: 0; padding-left: 10px;">
+                            S’organiser pour être autonome <br>
+
+                            <p style="padding-left: 40px;">* La réalisation en interne de l’évaluation des risques est à privilégier. Néanmoins, l’employeur peut s’appuyer sur des aides extérieures. Cette autonomie permet au chef d’entreprise de : <br><br>
+                                – Rester maître des décisions garantissant la maîtrise des risques, <br>
+                                – Contribuer à l’appropriation de la démarche par l’encadrement et les salariés.
+                            </p>
+                        </div>
+
+                        <div style="background-color: #f8f8f8; padding: 5px; margin-bottom: 15px;">
+                            <img src="http://intensive.baklouty.tn/storage/posts/April2019/fleche_png_508064.png" style="max-width: 50px; margin: 0; padding-left: 10px;">
+                            Associer les salariés <br>
+
+                            <p style="padding-left: 40px;">* Les salariés sont les premiers concernés par les risques professionnels auxquels ils sont exposés. L’identification des risques, le classement des risques et les propositions d’actions de prévention font l’objet d’échanges avec les salariés et/ou leurs instances représentatives.</p>
+                        </div>
+
+                        <div style="background-color: #f8f8f8; padding: 5px; margin-bottom: 15px;">
+                            <img src="http://intensive.baklouty.tn/storage/posts/April2019/fleche_png_508064.png" style="max-width: 50px; margin: 0; padding-left: 10px;">
+                            Décider des actions de prévention <br>
+
+                            <p style="padding-left: 40px;">* L’évaluation des risques professionnels est avant tout utile pour l’entreprise. Elle conduit à choisir des actions de prévention appropriées.</p>
+                        </div>
         	        </ul>&nbsp;<br><a name="eztoc1_1_1" id="eztoc1_1_1"></a>
                 </div>
-
-                <div class="row m0">
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements de 1ére et 2 émé catégorie">
-                                    
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 9001<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements 3 émé catégorie">
-                                        
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 14001<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements 3 émé catégorie">
-                                        
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 45001<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements 3 émé catégorie">
-                                        
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 50001<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements 3 émé catégorie">
-                                        
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 22000<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-
-                    <div class="col-md-6 col-sm-6">
-                        <h2 class="ms-link">
-                            <a href="#" title="Établissements 3 émé catégorie">
-                                        
-                                <span class="btn btn-link">
-                                    <img src="https://i.ibb.co/Myz0b7h/angle-right.png" style="margin-bottom: 0;">
-                                    ISO 17020<br><br>
-                                </span>
-                            </a>
-                        </h2>
-                    </div>
-                </div>
-
         	</article>
         </div>
 

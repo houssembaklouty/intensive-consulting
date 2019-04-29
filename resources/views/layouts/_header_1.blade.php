@@ -193,7 +193,7 @@
                                         </li>
                                         
                                         <li>
-                                            <a href="#" title="Évaluation Et Gestion Des Risques Professionnels">
+                                            <a href="{{ url('industriel/evaluation-et-gestion-des-risques-professionnels') }}" title="Évaluation Et Gestion Des Risques Professionnels">
                                             <i class="fa fa-angle-right" aria-hidden="true"></i>
                                             Évaluation Et Gestion Des Risques Professionnels
                                         </a>
